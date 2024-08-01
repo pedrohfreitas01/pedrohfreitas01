@@ -36,7 +36,7 @@ I am a Frontend developer passionate about creating amazing web experiences. I a
 
 ## Contact 
 
-- [LinkedIn](https://www.linkedin.com/in/pedrocafe/)
+- [LinkedIn](https://www.linkedin.com/in/pedro-cafe/)
 - [Email](pedrofreitasph49@gmail.com )
 
 
