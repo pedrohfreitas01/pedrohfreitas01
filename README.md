@@ -8,12 +8,7 @@ I am a Frontend developer passionate about creating amazing web experiences. I a
 
 ## Projetos em Destaque / Featured Projects
 
-- [PokeCard](https://pokemoncardgenerate-pedrocafe.vercel.app/): A Frontend practice app with Rest API .
-      - https://github.com/pedrohfreitas01/JS-ApiMiniProjects/tree/master/pokemonCardGen
-- [ToDoList](https://vercel.com/pedrohfreitas01s-projects/to-do-list-js): A  project using JavaScirpt HTML/CSS.
-      - https://github.com/pedrohfreitas01/toDoListJs
-- Check my vercel
-      - https://vercel.com/pedrohfreitas01s-projects
+- [My Portfolio](https://pedro-portfolio-pi.vercel.app/)
 
 ## Tecnologias e Ferramentas / Technologies and Tools
 
