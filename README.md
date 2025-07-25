@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Cafe, tenho 24 anos e sou natural de Fortaleza - CE. Estou cursando Ciência da Computação e sou apaixonado por tecnologia, sempre em busca de novos aprendizados e desafios. Gosto de colocar em prática meus conhecimentos desenvolvendo projetos fullstack e compartilhando soluções criativas. E claro, nada melhor do que uma boa jogatina de vez em quando para recarregar as energias! 😄
+Me chamo Pedro Cafe, tenho 24 anos de Fortaleza . Estou cursando Ciência da Computação e sou apaixonado por tecnologia, sempre em busca de novos aprendizados e desafios. Gosto de colocar em prática meus conhecimentos desenvolvendo projetos fullstack e compartilhando soluções criativas. E claro, nada melhor do que uma boa jogatina de vez em quando para recarregar as energias! 😄
 
 <a href="https://www.linkedin.com/in/pedro-cafe/" target="_blank" align="left">
   <img 
