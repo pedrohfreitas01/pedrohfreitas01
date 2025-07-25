@@ -11,14 +11,6 @@ Me chamo Pedro Cafe, tenho 24 anos e sou natural de Fortaleza - CE. Estou cursan
   />
 </a>
 
-<a href="https://discord.com/users/SEU_ID_NUMÉRICO_AQUI" target="_blank" align="left">
-  <img 
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
-    alt="Discord"
-/>
-</a>
-
-
 <a href="mailto:pedrofreitasph49@gmail.com" target="_blank" align="left">
   <img 
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
@@ -189,3 +181,12 @@ Me chamo Pedro Cafe, tenho 24 anos e sou natural de Fortaleza - CE. Estou cursan
   />
 
 </p>
+
+<br /><br />
+<br /><br />
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohfreitas01/pedrohfreitas01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohfreitas01/pedrohfreitas01/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrohfreitas01/pedrohfreitas01/output/github-contribution-grid-snake.svg">
+</picture>
